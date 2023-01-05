@@ -1,4 +1,4 @@
-# cs4096_ai_games_project
+# Ninja Frog Platformer Game
 
 #### Project Description
 
