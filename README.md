@@ -14,7 +14,7 @@ The game is complete with action sounds, background music and fun animations.
 - Background music from [Casual Game Music: Happy, Bouncy, Social](https://assetstore.unity.com/packages/audio/music/electronic/casual-game-music-happy-bouncy-social-214104) by Intersonic Sound
 
 ### Download and Play
-- Clone repo: `git clone https://github.com/JonFillip/cs4096_ai_games_project.git`
+- Clone repo: `git clone https://github.com/JonFillip/Ninja_Frog_2D.git`
 
 - Go to main scene in project `....Assets/Scenes/MainScene`
 
